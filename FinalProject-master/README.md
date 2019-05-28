@@ -1,3 +1,3 @@
-This is a final project of CISC 181
+This is a resubmission of final project of CISC 181
 Author: Zizhuo Xu
-Date: 5/22/2019 9:09 PM
+Date: 5/27/2019 9:00 PM
